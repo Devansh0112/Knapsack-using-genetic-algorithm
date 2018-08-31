@@ -1,10 +1,11 @@
 '''
     Made by Devansh Srivastava
-    knapsack Problem using genetic algorithm
+    knapsack Problem using Particle Swarm Optimzation (PSO)
     30 - 08 - 2018, 12:51 AM
     The sun is hot, that's what we are taught '''
 
-# knapsack simple 0/1 problem representation using genetic algorithm in python
+# knapsack simple 0/1 problem representation using PSO algorithm in python
+# see readme for help PSO
 
 import random
 
